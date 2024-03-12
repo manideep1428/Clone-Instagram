@@ -1,4 +1,6 @@
-#This is Clone-Instagram written NEXTJS and Express 
+<h1>This is Clone-Instagram written NEXTJS and Express 
+
+</h1>
 
 <h3> How to use ?</h3>
 
