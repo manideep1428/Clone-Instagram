@@ -8,7 +8,7 @@
 
 { Note: my-app is forntend written in NextJS }
 
-<h5> <b>cd my-app</b> and <b>cd backend </b> in different VSCode terminals</h5>
+<p> <b>cd my-app</b> and <b>cd backend </b> in different VSCode terminals</p>
 
 <p> <b>npm i </b>to download required for dependicies</p>
 
